@@ -50,4 +50,4 @@ renderable.render(parser, paths)
 
 ## Example
 
-https://github.com/Lcfvs/html-buffer#renderable-html
+https://github.com/Lcfvs/renderable-html#renderable-html
