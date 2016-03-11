@@ -1,0 +1,26 @@
+{
+  "name": "renderable",
+  "version": "1.0.1",
+  "description": "A tiny file cache module, based on buffers",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lcfvs/renderable.git"
+  },
+  "keywords": [],
+  "author": "Lcf.vs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lcfvs/renderable/issues"
+  },
+  "homepage": "https://github.com/Lcfvs/renderable#readme",
+  "dependencies": {
+    "glob": "^7.0.0"
+  },
+  "engines": {
+    "node": "5.x.x"
+  }
+}
