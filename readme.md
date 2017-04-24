@@ -1,4 +1,8 @@
 # renderable
+
+[![npm](https://img.shields.io/npm/v/renderable.svg?style=plastic)]()
+[![Downloads](https://img.shields.io/npm/dt/renderable.svg?style=plastic)]()
+
 A tiny file cache module, based on buffers, under the MIT licence
 
 ## Install
